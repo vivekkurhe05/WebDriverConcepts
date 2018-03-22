@@ -1,0 +1,18 @@
+2018-03-22 21:14:12,126 [main] INFO HandlingWindows - Gecko driver is setting up
+2018-03-22 21:14:31,201 [main] INFO HandlingWindows - Firefox is launching
+2018-03-22 21:14:31,277 [main] INFO HandlingWindows - Waiting for page load timeout for 20 sec
+2018-03-22 21:14:38,060 [main] INFO HandlingWindows - URL is opened http://toolsqa.com/automation-practice-switch-windows/
+2018-03-22 21:14:38,061 [main] INFO HandlingWindows - Sleeping for 1 second
+2018-03-22 21:14:39,850 [main] INFO HandlingWindows - Clicked on New Window button
+2018-03-22 21:14:40,051 [main] INFO HandlingWindows - Switched to child window
+2018-03-22 21:14:40,090 [main] ERROR HandlingWindows - New Browser window title is not read
+2018-03-22 21:14:40,132 [main] ERROR HandlingWindows - Wrong title is read
+2018-03-22 21:22:47,012 [main] INFO HandlingWindows - Gecko driver is setting up
+2018-03-22 21:23:01,838 [main] INFO HandlingWindows - Firefox is launching
+2018-03-22 21:23:01,876 [main] INFO HandlingWindows - Waiting for page load timeout for 20 sec
+2018-03-22 21:23:13,381 [main] INFO HandlingWindows - URL is opened http://toolsqa.com/automation-practice-switch-windows/
+2018-03-22 21:23:13,382 [main] INFO HandlingWindows - Sleeping for 1 second
+2018-03-22 21:23:15,859 [main] INFO HandlingWindows - Clicked on New Window button
+2018-03-22 21:23:16,197 [main] INFO HandlingWindows - Switched to child window
+2018-03-22 21:23:16,893 [main] INFO HandlingWindows - New window title is read
+2018-03-22 21:23:16,937 [main] ERROR HandlingWindows - Wrong title is read
